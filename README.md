@@ -1,6 +1,7 @@
 # Quem sou eu:
 Olá! Sou Andrey Joshua, aluno de Sistemas de Informação no Instituto Federal de Alagoas.
 
+![3x4](https://github.com/user-attachments/assets/e1b7fee9-0a91-4a04-aaeb-564a579fc351)
 
 # Educação
 Terminei meu Ensino Infantil e parte do Ensino Fundamental (até o 4° ano) na escola Boa Semente, em Maceió. <br />
